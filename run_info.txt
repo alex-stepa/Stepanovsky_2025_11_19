@@ -1,7 +1,7 @@
-Timestamp: 2025-11-19T11:41:11.449429
-Random source: https://edition.cnn.com
+Timestamp: 2025-11-19T11:51:53.070221
+Random source: https://www.reuters.com/world
 Script directory: /Users/alexandr/Stepanovsky_2025_11_19
-Python executable: /Library/Developer/CommandLineTools/usr/bin/python3
+Python executable: /Users/alexandr/Stepanovsky_2025_11_19/.venv/bin/python
 Python version: 3.9.6 (default, Aug  8 2025, 19:06:38) 
 [Clang 17.0.0 (clang-1700.3.19.1)]
 Public IP: 195.39.44.178
